@@ -1,14 +1,10 @@
-# AI_travel
-AI travel app with Gen AI
-you will use the app with this path : https://lala2398.github.io/AI_travel/ 
+# AI_travel App
 
 ### Description:
 
 This repository contains the code for an AI-powered travel app built with HTML, JavaScript, and the Gen AI. Explore destinations, get recommendations, and personalize your travel experience using artificial intelligence.
 
 ### Getting Started
-
-To view the live app, follow this link: [App Link](https://lala2398.github.io/AI_travel/)
 
 ![AI Travel App with Google Generative AI](https://github.com/Lala2398/AI-travel-app/blob/main/HTML%20version/Screenshot/Screenshot.png)
 
