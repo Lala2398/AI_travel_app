@@ -10,7 +10,7 @@ This repository contains the code for an AI-powered travel app built with HTML, 
 
 To view the live app, follow this link: [App Link](https://lala2398.github.io/AI_travel/)
 
-![AI Travel App with Google Generative AI](https://github.com/Lala2398/AI_travel/blob/main/Screenshot/Screenshot.png)
+![AI Travel App with Google Generative AI](https://github.com/Lala2398/AI-travel-app/blob/main/HTML%20version/Screenshot/Screenshot.png)
 
 ### Development Stack
 
@@ -22,7 +22,7 @@ AI Integration
 
 The test folder contains Jupyter Notebooks showcasing the app's functionalities in Python and alternative HTML implementations.
 
-For Python version of the app's logic using Jupyter Notebook [Python Notebook](https://github.com/Lala2398/AI_travel/blob/test/Python%20version/genai.ipynb) 
+For Python version of the app's logic using Jupyter Notebook [Python Notebook](https://github.com/Lala2398/AI-travel-app/blob/main/Python_version/genai.ipynb) 
 
 ### Further Exploration
 
